@@ -36,5 +36,6 @@ Output: [0,1]
 The `solution` folder contains two different solutions submitted on LeetCode:
 - [two-sum-submission1.py](solution/two-sum-submission1.py)
 - [two-sum-submission2.py](solution/two-sum-submission2.py)
+- [two-sum-submission3.py](solution/two-sum-submission3.py)
 
 
