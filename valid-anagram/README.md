@@ -1,4 +1,3 @@
-Here's a README file for the problem you provided:
 # Problem Description: Valid Anagram
 
 **Problem Statement:**
