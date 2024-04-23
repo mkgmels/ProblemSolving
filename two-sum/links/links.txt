@@ -1,0 +1,6 @@
+*Link to the problem description
+https://leetcode.com/problems/two-sum/description/
+*Link to submission1
+https://leetcode.com/problems/two-sum/submissions/1240089973
+*Link to submission2
+https://leetcode.com/problems/two-sum/submissions/1240179710
