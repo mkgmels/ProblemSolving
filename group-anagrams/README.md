@@ -32,5 +32,5 @@ The provided solution to this problem involves using a hash map to group anagram
 
 ### Additional Resources:
 For more details about the problem and to access the provided solution, refer to the following links:
-- [Problem Description on LeetCode](./links/leetcode_problem_description.txt)
-- [Submission on LeetCode](./links/leetcode_submission.txt)
+- [Problem Description on LeetCode](https://leetcode.com/problems/group-anagrams/description/)
+- [Submission on LeetCode](https://leetcode.com/problems/group-anagrams/submissions/1240742857)
