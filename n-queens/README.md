@@ -1,7 +1,3 @@
-Sure, here's a README file for the N-Queens problem:
-
----
-
 # N-Queens Problem
 
 The N-Queens problem is a classic problem in computer science and combinatorial optimization. The problem is defined as follows: given an \( n \times n \) chessboard, place \( n \) queens on the board such that no two queens attack each other. In chess, a queen can attack horizontally, vertically, and diagonally.
