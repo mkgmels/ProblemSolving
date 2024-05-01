@@ -1,2 +1,4 @@
 *N-Queens problem on leetcode
 https://leetcode.com/problems/n-queens/description/
+*My submission on leetcode
+https://leetcode.com/problems/n-queens/submissions/1246669314
