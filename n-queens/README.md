@@ -23,6 +23,6 @@ print(Solution().solveNQueens(8))
 
 ## Constraints
 
-- \( 1 \leq n \leq 9 \)
+- 1 < n < 9
 
 
