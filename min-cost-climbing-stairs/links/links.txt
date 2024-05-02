@@ -1,0 +1,4 @@
+*Link to the problem description
+https://leetcode.com/problems/min-cost-climbing-stairs/
+*Link to my submission on leetcode
+https://leetcode.com/problems/min-cost-climbing-stairs/submissions/1247370877
